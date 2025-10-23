@@ -1,7 +1,7 @@
 /**/
 
 html,body {
-  background: skyblue;
+  background: rgb(142, 235, 135);
   height: 100%;
 }
 
@@ -11,7 +11,7 @@ html,body {
   padding: 10px;
   margin: 5px;
   height: 40%;
-  background: white;
+  background: rgb(225, 255, 0);
 }
 
 #btn {
